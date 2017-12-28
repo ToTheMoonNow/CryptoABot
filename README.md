@@ -2,11 +2,19 @@ A fork from Gekko. The MD4ECryptoBot contains over 20 different indicators and s
 
 It contains paper-trading (simulates real trades against an exchange) functionality and contains extensive configuration options to enable buy-/sell-protection and can be customised as all code will be accessible and is easy to change (it is Javascript after all).
 
-[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZRP5WBD8CT8EW
-![paypal](https://img.shields.io/badge/PayPal--ffffff.svg?style=social&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABHNCSVQICAgIfAhkiAAAAZZJREFUOI3Fkb1PFFEUxX%2F3zcAMswFCw0KQr1BZSKUQYijMFibGkhj9D4zYYAuU0NtZSIiNzRZGamqD%2BhdoJR%2FGhBCTHZ11Pt%2B1GIiEnY0hFNzkFu%2FmnHPPPQ%2Buu%2BTiYGjy0ZPa5N1t0SI5m6mITeP4%2B%2FGP%2Fbccvto8j3cuCsQTSy%2FCzLkdxqkXpoUXJoUXJrkfFTLMwHiDYLrFz897Z3jT6ckdBwsiYDMo0tNOIGuBqS%2Beh7sdAkU2g%2BkBFGkd%2FrtSgD8Z%2BrBxj68MAGG1A9efRhVsXrKMU7Y4cNyGOwtDU28OtrqdUMetldvzFKxCYSHJ4NsJ%2BnRJGexHba7VJ%2FTff4BaQFBjVcbqIEZ1bESYn4PRUcHx2N952awUkOHZedUcWm14%2FtjqjREHawUEsgx6Ajg5%2Bsi7jWqBwA%2BmIrXlo9YHUVTmEP%2F6hOO1Ofiyy3pjo%2BsvBDX%2FZpSakhz4BqvQDvdYvrXQEXZViI5rPpBEOwR2l16vtN7bd9SN3L1WXj%2BjGSnN38rq%2B7VL8xXQOdDF%2F0KvXn8BlbuY%2FvUAHysAAAAASUVORK5CYII%3D)
 
 ___
-:beer: **Please support me**: Although all my software is free, it is always appreciated if you can support my efforts on Github with a [contribution via Paypal][paypal] or any #Crypto-donations below - this allows me to write cool projects like this in my personal time and hopefully help you or your business. 
+:beer: **Please support me**: Although all my software is free, it is always appreciated if you can support my efforts on Github with any #Crypto-donations below - this allows me to write cool projects like this in my personal time and hopefully help you or your business.
+
+```
+(Ripple) rpnkm4n7BVAh8Hpg58fDDkVrtTv2nJMYFo
+(BTC)    19cRTHgE8VHRvKWE9GdUA4jkADvuywYVwx
+(ETH)    0x7c1840b1cAb78c2AAB8B05d8C5E3a28b5C5121C7
+(LTC)    LcjbNNNNQt1R9WvKxsUETCkdGYwjMA33Xq
+(XVG)    DQJZy4SzVRtf7JWvMZgtMQtcf7ZjdxyywZ
+(BNB)    0xa26a5ef26a8b213c37097bd7db8e89ad1ecb09bb
+(SC)     1db3a5c6c66cf75b9f4fdf0aa9867f955889359fd5e7ad7c54405028bb48bf360abe44606f11
+```
 ___
 
 
